@@ -27,7 +27,7 @@ En ingles "if" significa "si" (Condicion) y "else" significa "si no".
 
 ![](/imagenes/doble.PNG)
 
-## **Condicional Doble:**
+## **Condicional Multiple:**
 
 La estructura de control IF...elif...elif... permite la ejecucion de multiples condiciones de forma gerarquica, es decir, si no se cumple la primera condicion se evalua la siguiente condicion y asi sucesivamente.<br>
 Este tipo de estructura puede o no acabar en una sentencia ELSE, dependerá de la tarea a controlar.
